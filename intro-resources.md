@@ -36,6 +36,7 @@ Know an additional resource that should be on this page? Add it directly on [Git
 
 ### English
 
+* [What is Impact Mapping and Why is it Useful](https://agilepainrelief.com/blog/what-is-impact-mapping-and-why-is-it-useful.html) by Mark Levison
 * [What It Is Impact Mapping?](https://www.kbp.media/impact-mapping/) by Kent McDonald
 * [Introduction to Impact mapping](http://modernux.se/docs/impactmapping/) by Martin Christensen
 * [Impact Mapping: Chart Your Course to a Compelling Product](https://www.dmi.org/news/417820/Impact-Mapping-Chart-Your-Course-for-a-Compelling-Project.htm) by Deborah Wyse
